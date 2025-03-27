@@ -1,0 +1,27 @@
+{
+  "name": "reddit-saved-enhanced",
+  "version": "1.0.0",
+  "description": "The Reddit Saved page sucks. Can't search, filter categories, tag posts, nada. Whack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjs243/reddit-saved-enhanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mjs243/reddit-saved-enhanced/issues"
+  },
+  "homepage": "https://github.com/mjs243/reddit-saved-enhanced#readme",
+  "dependencies": {
+    "parcel": "^2.14.2",
+    "process": "^0.11.10",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
